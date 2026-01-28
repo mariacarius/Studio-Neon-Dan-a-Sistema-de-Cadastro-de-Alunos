@@ -1,4 +1,5 @@
 #  Studio Neon Dança — Sistema de Cadastro de Alunos
+![Preview do Projeto](preview.png)
 
 Sistema web para **cadastro e gerenciamento de alunos de uma academia de dança**, desenvolvido com **HTML, CSS e JavaScript puro**, com foco em visual moderno, simplicidade e funcionamento sem backend.
 
